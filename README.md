@@ -1,6 +1,6 @@
    
    {
-"New_Version": "38.6.2",
+"New_Version": "38.6.3",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -28,10 +28,10 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/M2d9fveK",
+"Download_Link" : "https://files.technicalatg.com/EhTDwjozrS",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "true",
+"isCancelable" : "false",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
