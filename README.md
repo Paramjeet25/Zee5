@@ -1,6 +1,6 @@
    
    {
-"New_Version": "38.6.3",
+"New_Version": "38.6.4",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -28,14 +28,14 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/EhTDwjozrS",
+"Download_Link" : "https://files.technicalatg.com/uuXpH",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "true",
+"isCancelable" : "false",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
-"Share_Mod_Text" : "Hey I found a zee5 great mod You will No Need to pay a single rupee for this mod so download now by clicking on this link https://files.technicalatg.com/M2d9fveK",
+"Share_Mod_Text" : "Hey I found a zee5 great mod You will No Need to pay a single rupee for this mod so download now by clicking on this link https://files.technicalatg.com/uuXpH",
 
 
 "Dialog_Stroke_Color" : "#FF0B8B42",
