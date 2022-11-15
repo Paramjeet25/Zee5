@@ -31,7 +31,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 "Download_Link" : "https://files.technicalatg.com/JST5m3fha",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "true",
+"isCancelable" : "false",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
